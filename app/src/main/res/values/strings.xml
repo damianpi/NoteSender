@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NoteSender</string>
+    <string name="note_text_hint">Enter the message for the note.</string>
+    <string name="note_text_label">Message text</string>
+    <string name="note_actions_label">Actions</string>
+    <string name="date_picker_title">Date for note:</string>
+    <string name="new_note">New Note</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s notes</string>
+    <string name="smsOptions">Send with SMS</string>
+    <string name="send_sms_button_text">Send SMS</string>
+    <string name="choose_number_button_text">Choose number</string>
+    <string name="sms_sender_message_hint">Message</string>
+    <string name="sms_sender_destination_hint">Destination</string>
+    <string name="email_sender_message_hint">Message</string>
+    <string name="email_sender_destination_hint">Address</string>
+    <string name="choose_address_button_text">Choose address</string>
+    <string name="send_email_button_text">Send email</string>
+    <string name="email_options">Send with email</string>
+    <string name="sms_sender_text_description">Message - modify it here without changing you note</string>
+    <string name="sms_sender_destination_description">Destination - enter a number or choose one from your contact list</string>
+    <string name="email_sender_text_description">Message - modify it here without changing you note</string>
+    <string name="email_sender_destination_description">Destination - choose email from your contact list</string>
+    <string name="delete_note">Delete</string>
+</resources>
