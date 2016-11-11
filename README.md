@@ -2,6 +2,8 @@
 
 This Android application allows you to create a list of notes, store them in an SQLite database, and send them via sms or email to one of your contacts.
 
+**NOTE:** This app was designed for and tested on Android 5/5.1 and there are known issues with it on Android 6.0 (and most likely higher) that may occur.
+
 Some of the app's features:
 
 * Views make use of Fragments and ViewHolders for better performance and ease of use.
